@@ -1,6 +1,6 @@
 # NLP Multitasking: Named Entity Recognition, Sentiment, and Topic Classification
 
-This repository contains materials and assignments for a Text Mining course at Vrije Universiteit Amsterdam. The project explores three fundamental Natural Language Processing (NLP) techniques: Named Entity Recognition and Classification (NERC), Sentiment Analysis (SA), and Topic Classification (TC).
+This repository contains materials and assignments for the Text Mining course at Vrije Universiteit. The project explores three fundamental Natural Language Processing (NLP) techniques: Named Entity Recognition and Classification (NERC), Sentiment Analysis (SA), and Topic Classification (TC).
 
 ## Table of Contents
 
